@@ -14,7 +14,7 @@ One may be interested in see the pattern in action. Just clone this repo in your
 
 The image below shows an execution sample
 
-![LogSample]('./img/log.png')
+![LogSample](./img/log.png)
 
 ## References
 
